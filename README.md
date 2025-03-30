@@ -29,6 +29,7 @@ I'm a BTech student in **Artificial Intelligence and Machine Learning (AIML)** u
   <a href="https://www.instagram.com/sarwannandh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://www.reddit.com/user/NoSwimming4210/"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" /></a>
   <a href="https://x.com/Sarwannandh_67"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
+  <a href="https://orcid.org/0009-0005-8072-6622"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 </p>
 
 📊 **GitHub Stats & Achievements**
@@ -37,6 +38,14 @@ I'm a BTech student in **Artificial Intelligence and Machine Learning (AIML)** u
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarwannandh67&theme=radical" />
   <img src="https://github-profile-trophy.vercel.app/?username=Sarwannandh67&theme=radical" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarwannandh67&layout=compact&theme=radical" />
+</p>
+
+🏆 **Achievements**
+<p align="center">
+  - 🎖️ Completed multiple AI & ML projects.
+  - 🏅 Developed a full-fledged financial tracking app.
+  - 🎯 Created interactive educational websites.
+  - 📢 Presented projects in tech communities.
 </p>
 
 💬 **Developer Quote**

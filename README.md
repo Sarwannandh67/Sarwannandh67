@@ -2,8 +2,6 @@
   <h1>Hi there, I'm Sarwan! 👋</h1>
 </p>
 
----
-
 <p align="left">
 🚀 <b>About Me</b><br>
 I'm a BTech student in <b>Artificial Intelligence and Machine Learning (AIML)</b> under <b>Computer Science and Engineering (CSE)</b>. Passionate about <b>App Development, AI, SQL, ML, and Backend Development</b>.

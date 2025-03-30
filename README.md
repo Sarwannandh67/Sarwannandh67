@@ -4,17 +4,17 @@
 
 ---
 
-<p align="center">
+<p align="left">
 🚀 <b>About Me</b><br>
 I'm a BTech student in <b>Artificial Intelligence and Machine Learning (AIML)</b> under <b>Computer Science and Engineering (CSE)</b>. Passionate about <b>App Development, AI, SQL, ML, and Backend Development</b>.
 </p>
 
 ---
 
-<p align="center">
+<p align="left">
 💡 <b>What I'm Working On</b>
 </p>
-<p align="center">
+<p align="left">
 🔢 <b>GradePro Calculator</b> – A smart calculator for students.<br>
 📊 <b>Financial Tracker App</b> – Tracks Google Pay, PhonePe, and Paytm transactions.<br>
 🧬 <b>Animal Cell Interactive Website</b> – A 3D, glassmorphism-based learning tool.<br>
@@ -23,7 +23,7 @@ I'm a BTech student in <b>Artificial Intelligence and Machine Learning (AIML)</b
 
 ---
 
-<p align="center">
+<p align="left">
 📚 <b>Tech Stack</b>
 </p>
 <p align="center">
@@ -39,7 +39,7 @@ I'm a BTech student in <b>Artificial Intelligence and Machine Learning (AIML)</b
 
 ---
 
-<p align="center">
+<p align="left">
 📫 <b>Let's Connect!</b>
 </p>
 <p align="center">
@@ -54,7 +54,7 @@ I'm a BTech student in <b>Artificial Intelligence and Machine Learning (AIML)</b
 
 ---
 
-<p align="center">
+<p align="left">
 📊 <b>GitHub Stats & Achievements</b>
 </p>
 <p align="center">
@@ -66,10 +66,10 @@ I'm a BTech student in <b>Artificial Intelligence and Machine Learning (AIML)</b
 
 ---
 
-<p align="center">
+<p align="left">
 🏆 <b>Achievements</b>
 </p>
-<p align="center">
+<p align="left">
   🎖️ Completed multiple AI & ML projects.<br>
   🏅 Developed a full-fledged financial tracking app.<br>
   🎯 Created interactive educational websites.<br>
@@ -78,7 +78,7 @@ I'm a BTech student in <b>Artificial Intelligence and Machine Learning (AIML)</b
 
 ---
 
-<p align="center">
+<p align="left">
 💬 <b>Developer Quote</b><br>
 <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
 </p>

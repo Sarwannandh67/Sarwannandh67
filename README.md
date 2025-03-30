@@ -2,10 +2,14 @@
   <h1>Hi there, I'm Sarwan! 👋</h1>
 </p>
 
+---
+
 <p align="center">
 🚀 <b>About Me</b><br>
 I'm a BTech student in <b>Artificial Intelligence and Machine Learning (AIML)</b> under <b>Computer Science and Engineering (CSE)</b>. Passionate about <b>App Development, AI, SQL, ML, and Backend Development</b>.
 </p>
+
+---
 
 <p align="center">
 💡 <b>What I'm Working On</b>
@@ -16,6 +20,8 @@ I'm a BTech student in <b>Artificial Intelligence and Machine Learning (AIML)</b
 🧬 <b>Animal Cell Interactive Website</b> – A 3D, glassmorphism-based learning tool.<br>
 🦠 <b>Influenza Virus Simulation</b> – A dynamic webpage showing virus infection.
 </p>
+
+---
 
 <p align="center">
 📚 <b>Tech Stack</b>
@@ -31,6 +37,8 @@ I'm a BTech student in <b>Artificial Intelligence and Machine Learning (AIML)</b
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
 </p>
 
+---
+
 <p align="center">
 📫 <b>Let's Connect!</b>
 </p>
@@ -44,6 +52,8 @@ I'm a BTech student in <b>Artificial Intelligence and Machine Learning (AIML)</b
   <a href="https://orcid.org/0009-0005-8072-6622"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" /></a>
 </p>
 
+---
+
 <p align="center">
 📊 <b>GitHub Stats & Achievements</b>
 </p>
@@ -53,6 +63,8 @@ I'm a BTech student in <b>Artificial Intelligence and Machine Learning (AIML)</b
   <img src="https://github-profile-trophy.vercel.app/?username=Sarwannandh67&theme=radical" /><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarwannandh67&layout=compact&theme=radical" />
 </p>
+
+---
 
 <p align="center">
 🏆 <b>Achievements</b>
@@ -64,12 +76,18 @@ I'm a BTech student in <b>Artificial Intelligence and Machine Learning (AIML)</b
   📢 Presented projects in tech communities.
 </p>
 
+---
+
 <p align="center">
 💬 <b>Developer Quote</b><br>
 <i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i>
 </p>
 
+---
+
 <p align="center">
 🔥 <b>Fun Fact</b><br>
 I love building projects that solve real-world problems! 😃
 </p>
+
+---

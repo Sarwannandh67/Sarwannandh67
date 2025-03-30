@@ -31,4 +31,12 @@ I'm a BTech student in **Artificial Intelligence and Machine Learning (AIML)** u
   <a href="https://x.com/Sarwannandh_67"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" /></a>
 </p>
 
+📊 **GitHub Stats & Achievements**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sarwanndh67&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarwanndh67&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sarwanndh67&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwanndh67&layout=compact&theme=radical" />
+</p>
+
 🔥 **Fun Fact**: I love building projects that solve real-world problems! 😃

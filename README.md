@@ -23,7 +23,7 @@ I'm a BTech student in **Artificial Intelligence and Machine Learning (AIML)** u
 
 📫 **Let's Connect!**
 <p align="center">
-  <a href="https://github.com/sarwannandh67"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://github.com/Sarwannandh67"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/sarwannandh/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:sarwannandhofficial672007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.instagram.com/sarwannandh/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
@@ -33,10 +33,14 @@ I'm a BTech student in **Artificial Intelligence and Machine Learning (AIML)** u
 
 📊 **GitHub Stats & Achievements**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sarwanndh67&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sarwanndh67&theme=radical" />
-  <img src="https://github-profile-trophy.vercel.app/?username=sarwanndh67&theme=radical" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarwanndh67&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sarwannandh67&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sarwannandh67&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Sarwannandh67&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sarwannandh67&layout=compact&theme=radical" />
 </p>
 
-🔥 **Fun Fact**: I love building projects that solve real-world problems! 😃
+💬 **Developer Quote**
+<p align="center"><i>"Code is like humor. When you have to explain it, it’s bad." – Cory House</i></p>
+
+🔥 **Fun Fact**
+<p align="center">I love building projects that solve real-world problems! 😃</p>

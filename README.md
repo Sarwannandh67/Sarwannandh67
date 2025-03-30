@@ -28,5 +28,8 @@ I'm a BTech student in **Artificial Intelligence and Machine Learning (AIML)** u
 - ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) [sarwanndh67](https://github.com/sarwanndh67)
 - ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [Your LinkedIn Profile](#)
 - ![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white) [Your Email](#)
+- ![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) [Your Instagram](#)
+- ![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white) [Your Reddit](#)
+- ![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white) [Your X](#)
 
 🔥 **Fun Fact**: I love building projects that solve real-world problems! 😃
